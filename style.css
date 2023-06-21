@@ -1,0 +1,137 @@
+#logo{
+    width: 200px;
+    height: 200px;
+}
+#name{
+    font-size: 40px;
+    font-family: cursive;
+    color: blueviolet;
+}
+body{
+    background-color: firebrick;
+}
+#genres{
+    font-size:30px;
+    color:rgb(11, 246, 11);
+}
+#travel{
+    width:60px;
+    height:30px;
+    background-color: firebrick;
+    color:rgb(1, 255, 1);
+}
+
+#anime{
+    width:60px;
+    height:30px;
+    background-color: firebrick;
+    color:rgb(1, 255, 1);
+}
+
+#books{
+    width:60px;
+    height:30px;
+    background-color: firebrick;
+    color:rgb(1, 255, 1);
+}
+
+#movies{
+    width:60px;
+    height:30px;
+    background-color: firebrick;
+    color:rgb(1, 255, 1);
+}
+#travelheading{
+    font-size:60px;
+    color:blanchedalmond;
+}
+#gulmarg{
+    font-size: xx-large;
+    color: aliceblue;
+}
+#bigphoto{
+    width:300px;
+    height:200px;
+}
+#gulmargtext{
+    color:whitesmoke;
+    font-size: x-large;
+}
+#Gwidth{
+    width:90px;
+}
+#gooa{
+    font-size:xx-large;
+    color: white;
+}
+#gotext{
+    color:white;
+    font-size: x-large;
+}
+#koltext{
+    color:white;
+    font-size: x-large;
+}
+#bigmumbai{
+    width:255px;
+}
+#kolname{
+    font-size: 25px;
+    color:white;
+}
+#mumname{
+    color:white;
+    font-size:25px;
+}
+#animeheading{
+    font-size:60px;
+    color:rgb(137, 137, 255);
+}
+#naruto{
+    font-size:29px;
+    color:aquamarine;
+}
+#narutoimg{
+    height:200px;
+    width:200px;
+}
+#narutotext{
+    color:rgb(255, 250, 244);
+    font-size:20px;
+}
+#death{
+    font-size:29px;
+    color:aquamarine;
+}
+#deathtext{
+    color:rgb(255, 250, 244);
+    font-size:20px;
+}
+#saitama{
+    font-size:29px;
+    color:aquamarine;
+}
+#onetext{
+    color:white;
+    font-size:20px;
+}
+#japanese{
+    color:blueviolet;
+    font-size:25px;
+}
+#sui{
+    width: 300px;
+    height: 300px;
+}
+#spiderman{
+    width:400px;
+    height:550px;
+}
+#fast{
+    width:400px;
+    height:500px;
+}
+#mcu{
+    width:400px;
+    height:500px;
+}
